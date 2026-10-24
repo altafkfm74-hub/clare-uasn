@@ -1,0 +1,6 @@
+name: ai_classifier
+source: paper
+reference: see clare/baselines/ai_classifier.py header
+default_params:
+  dz_max: 100.0
+  N_tx_max: 5.0
