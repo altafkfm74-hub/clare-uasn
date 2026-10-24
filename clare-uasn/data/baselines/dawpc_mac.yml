@@ -1,0 +1,6 @@
+name: dawpc_mac
+source: paper
+reference: see clare/baselines/dawpc_mac.py header
+default_params:
+  dz_max: 100.0
+  N_tx_max: 5.0
