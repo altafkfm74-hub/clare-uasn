@@ -1,6 +1,0 @@
-name: rl_trust
-source: paper
-reference: see clare/baselines/rl_trust.py header
-default_params:
-  dz_max: 100.0
-  N_tx_max: 5.0
